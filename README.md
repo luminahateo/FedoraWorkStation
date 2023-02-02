@@ -15,3 +15,6 @@
 5/ lancer le script ```./"FWS/startFedo.sh"```       
 6/ Une fois les script terminé, il est recommandé de redémarrer le système.     
 
+![001](AttachREADME/001.png)  
+![002](AttachREADME/002.png)  
+![003](AttachREADME/003.png)  
