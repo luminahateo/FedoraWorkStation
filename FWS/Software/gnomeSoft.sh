@@ -5,7 +5,7 @@ echo "|_________________________
 
 #deinstall
 #========================================#
-sudo dnf autoremove -qy {cheese totem* gnome-{characters,dictionary,photos,user-docs}}
+sudo dnf autoremove -qy cheese totem* gnome-{characters,dictionary,photos,user-docs,tour}
 
 #install
 #========================================#

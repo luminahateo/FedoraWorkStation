@@ -12,7 +12,7 @@
 2/ Dezippez-le
 3/ Ouvrir le terminal à l'endroit où se trouve le dossier "installationFWD"
 4/ ```chmod -R 755 FWS```    
-5/ lancer le script ```./"FWS/startFedo.sh"```       
+5/ lancer le script ```./"FedoraWorkStation/install_FWD.sh"```       
 6/ Une fois les script terminé, il est recommandé de redémarrer le système.     
 
 ![001](AttachREADME/001.png)  
